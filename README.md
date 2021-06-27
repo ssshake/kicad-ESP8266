@@ -1,3 +1,8 @@
+Fork Notes
+===========
+It looks like issues with the original repo (such as rule check errors) are not being fixed.
+This fork contains those fixes.
+
 kicad-ESP8266 - a library for KiCAD
 =====================================
 This project has both schematic symbols, footprints, and 3d models for
